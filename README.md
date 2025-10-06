@@ -23,7 +23,7 @@ The dashboard tracks:
 
 ---
 
-## 📷 Vista Previa del Dashboard
+## 📷 Dashboard Preview
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ---
